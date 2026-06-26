@@ -1,7 +1,7 @@
 # I want to become a data scientiest
 import google.generativeai as genai
 #Configuring API Key
-#genai.configure(api_key="abc")
+genai.configure(api_key="abc")
 #Loading Gemini Model
 print("AI CAREER GUIDANCE ASSISTANT")
 model=genai.GenerativeModel("gemini-3-flash-preview")
