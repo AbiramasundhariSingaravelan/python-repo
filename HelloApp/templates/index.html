@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First Web App</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+        <Style>
+            *{
+                margin:25px;
+            }
+        </Style>
+    </head>
+    <body>
+        <form action="/register" method="post">
+            <fieldset>
+                <div class="form-control">
+                    <label>Name:</label>
+                    <input type="text" class="form-control" name="name">
+                </div>
+                <div class="form-control">
+                    <label>Department:</label>
+                    <input type="text" class="form-control" name="dept">
+                </div>
+                <div class="form-control">
+                    <label>Mobile Number:</label>
+                    <input type="text" class="form-control" name="mobile">
+                </div>
+                <div class="form-control">
+                    <label>City:</label>
+                    <input type="text" class="form-control" name="city">
+                </div>
+                <div class="form-control">
+                    <label>State:</label>
+                    <input type="text" class="form-control" name="state">
+                </div>
+                <div class="form-control">
+                    <label>Country:</label>
+                    <input type="text" class="form-control" name="country">
+                </div>
+                <button class="btn btn-primary">Submit</button>
+            </fieldset>
+        </form>
+    </body>
+</html>
