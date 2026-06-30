@@ -1,0 +1,61 @@
+ABIRAMASUNDHARI SINGARAVELAN
+
+FULL STACK DEVELOPER | TECHNICAL TRAINING | AUTHOR
+
+To work in an inspiring environment where I will be able to use my current knowledge, skills in the IT industry and explore the opportunities for redefining the boundaries.
+
+BE – Computer Science and Engineering
+
+Completed the Professional Course GNIIT from National Institute of Information Technology.
+
+Prospective M.Tech (Artificial Intelligence) Candidate, IIT
+Currently participating in the admission process; entrance examination scheduled for July 2026.
+
+
+AI, Data Science, and Full Stack Technology Trainer with 8+ years of experience in technical education, curriculum development, and content creation. Experienced in delivering training programs in Python, Data Science fundamentals, Machine Learning concepts, Java Full Stack Development, and Web Technologies. Skilled in creating recorded video content, hands-on coding demonstrations, assessments, and project-based learning experiences.
+
+
+Programming Language & Frameworks	C, C++, JAVA, C#.NET, ASP.NET, Servlets
+and JSP Spring, Spring Boot, Spring Data JPA, GraphQL, REST API
+Databases	MySQL, Oracle, MongoDB
+Web Technologies	HTML5, CSS, JS, JQUERY, AJAX
+Web Servers	Apache Tomcat, Glassfish, JBoss
+Code Quality	SonarQube, PMD
+Cloud Technologies	Aws, Azure, GCP
+Presentation Layer	Angular, REACT JS
+
+Data Science & AI	Data Analysis using Pandas, Numpy, Matplotlib, Seaborn, Jupyter, EDA, Machine Learning Fundamentals 
+Project Management Tools	Maven, Gradle
+Testing	Junit, Mockito
+Methodologies	Agile, Devops
+ 
+ 
+	Worked as an instructor in Udemy for Web designing and development.
+	Worked as a full stack JAVA Developer in Varsharthi Tech Solution. (2016-2020)
+
+	Developed a Food delivery System with Spring Boot/JPA.
+
+	Deployed the application into AWS using Elastic Container Service for orchestration.
+
+	Mentored a batch of students for Smart India Hackathon organized by AICTE.
+	Worked as a corporate trainer (Full Stack JAVA) in cognizant (2021- 2023)
+	Worked as a freelance corporate trainer in wipro(2023 – 2024)
+	Handled Java training for TCS .(Jan’2024 to Apr 2024)
+	Worked as freelance author in Guvi Geeks Networks, IITM Research Park. 
+
+	Handled technical trainings for various clients such as Cognizant, Capgemini and DXC.
+	Delivered workshops on Artificial Intelligence and Python Programming for engineering students. 
+	Developed Data Science training materials including presentations, coding exercises, assessments, and case studies. 
+	Created hands-on learning modules on data analysis, visualization, and machine learning fundamentals. 
+
+	Published a book on “Developing Web Applications using PHP”.
+
+	Has been recognized as a text book in “Sana’a university”
+	Published a book on “C Programming for beginners”.
+
+I hereby declare that the above mentioned details are true to the best of my knowledge and belief.
+
+
+Date: 24/06/2026	Yours faithfully,
+Place: Mayiladuthurai
+Abiramasundhari

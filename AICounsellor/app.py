@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import google.generativeai as genai
 app=Flask(__name__)
-genai.configure(api_key="AQ.Ab8RN6IY1ZVR7ZLHr6dz1U-Yylw3Uj2Cdb6Y25sZc3aCSyMC3w")
+genai.configure(api_key="AIzaSyDuMq19zP8AXK6DT-pdQfGWX33YLpSZ-tA")
 model=genai.GenerativeModel("gemini-3.1-flash-lite")
 @app.route("/")
 def home():
